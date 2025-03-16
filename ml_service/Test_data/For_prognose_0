@@ -1,0 +1,28 @@
+{
+  "I_beta_HCG_mIU_mL": 1.0,
+  "Age_yrs": 32,
+  "BMI": 30,
+  "Cycle_length_days": 35,
+  "Cycle_R_I": 0,
+  "Fast_food_Y_N": 1,
+  "Hair_loss_Y_N": 1,
+  "Hb_g_dl": 12.0,
+  "Height_Cm": 160,
+  "Hip_inch": 110,
+  "Marraige_Status_Yrs": 5,
+  "PRG_ng_mL": 9.0,
+  "Pimples_Y_N": 1,
+  "Pulse_rate_bpm": 85,
+  "RBS_mg_dl": 130,
+  "Reg_Exercise_Y_N": 0,
+  "Skin_darkening_Y_N": 1,
+  "Vit_D3_ng_mL": 20,
+  "Waist_inch": 95,
+  "Weight_Kg": 85,
+  "Weight_gain_Y_N": 1,
+  "Hair_growth_Y_N": 1
+}
+
+
+# Для отримання прогнозу "0" (СПКЯ, гормональні проблеми, погана якість яйцеклітини):
+# (Високий FSH, низький AMH, високий ІМТ, високий рівень глюкози, СПКЯ)

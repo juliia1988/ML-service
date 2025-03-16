@@ -1,0 +1,27 @@
+{
+  "I_beta_HCG_mIU_mL": 2.5,
+  "Age_yrs": 28,
+  "BMI": 22,
+  "Cycle_length_days": 28,
+  "Cycle_R_I": 1,
+  "Fast_food_Y_N": 0,
+  "Hair_loss_Y_N": 0,
+  "Hb_g_dl": 13.5,
+  "Height_Cm": 165,
+  "Hip_inch": 100,
+  "Marraige_Status_Yrs": 2,
+  "PRG_ng_mL": 13.5,
+  "Pimples_Y_N": 0,
+  "Pulse_rate_bpm": 75,
+  "RBS_mg_dl": 90,
+  "Reg_Exercise_Y_N": 1,
+  "Skin_darkening_Y_N": 0,
+  "Vit_D3_ng_mL": 40,
+  "Waist_inch": 75,
+  "Weight_Kg": 60,
+  "Weight_gain_Y_N": 0,
+  "Hair_growth_Y_N": 0
+}
+
+# Для отримання прогнозу "1" (якісна яйцеклітина):
+# (Високий AMH, нормальні рівні FSH, LH, адекватний рівень вітаміну D, нормальний ІМТ, відсутність СПКЯ)
